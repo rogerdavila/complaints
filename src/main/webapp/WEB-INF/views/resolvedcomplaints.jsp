@@ -14,7 +14,7 @@
     <body>
     	<div align="center">
 	        <h1>Complaint List</h1>
-			<h3><a href="newcomplaint">New Complaint</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="<c:url value="/"/>">See all complaints</a></h3>
+			<h3><a href="addcomplaint">New Complaint</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="<c:url value="/"/>">See all complaints</a></h3>
 			<table border="1">
 				<tr>
 					<th>Complaint ID</th>
